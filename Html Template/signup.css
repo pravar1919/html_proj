@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.card {
+  background-color: rgba(245, 245, 245, 0.6) !important;
+  opacity: 1 !important;
+}
